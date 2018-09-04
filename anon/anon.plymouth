@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Anon
+Description=The best Anonymous theme.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/anon
+ScriptFile=/usr/share/plymouth/themes/anon/anon.script

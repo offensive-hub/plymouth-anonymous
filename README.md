@@ -1,7 +1,7 @@
 # plymouth-anonymous
 The best Anonymous plymouth theme
 
-[![Watch the video](https://img.youtube.com/vi/n090S82D32M/maxresdefault.jpg)](https://youtu.be/n090S82D32M)
+[![Watch the video](/preview.png)](https://youtu.be/n090S82D32M)
 
 ## HOW TO:
   1. `cd /usr/share/plymouth/themes/`

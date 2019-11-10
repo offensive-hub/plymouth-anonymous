@@ -1,5 +1,4 @@
 # plymouth-anonymous
-The best Anonymous plymouth theme
 
 [![Watch the video](/preview.png)](https://youtu.be/n090S82D32M)
 
